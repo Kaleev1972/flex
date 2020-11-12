@@ -1,0 +1,29 @@
+{
+  "IT_SHATLE": "Минск",
+  "contents": [
+     {
+      "dataCursa": "27 сентября",
+      "Name"     : "HTML/Css",
+      "FIO"      :  "Петров Петр",
+      "Mobtel"   :  "+375 29 320 20 86"
+    },
+    {
+      "dataCursa": "27 сентября",
+      "Name"     : "HTML/Css",
+      "FIO"      :  "Иванов Иван",
+      "Mobtel"   :  "+375 44 320 20 86"
+    }		
+    {
+      "dataCursa": "16 ноября",
+      "Name"     : "java script",
+      "FIO"      :  "Петров Петр",
+      "Mobtel"   :  "+375 29 320 20 86"
+    },
+    {
+      "dataCursa": "16 ноября",
+      "Name"     : "java script",
+      "FIO"      :  "Иванов Иван",
+      "Mobtel"   :  "+375 44 320 20 86"
+    }
+  ],
+}
