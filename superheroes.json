@@ -6,17 +6,17 @@
     {
       "name" : "Molecule Man",
       "age" : 29,
-      "secretIdentity" : "Dan Jukes",
+      "secretIdentity" : "Dan Jukes"
     },
     {
       "name" : "Madame Uppercut",
       "age" : 39,
-      "secretIdentity" : "Jane Wilson",
+      "secretIdentity" : "Jane Wilson"
     },
     {
       "name" : "Eternal Flame",
       "age" : 1000000,
-      "secretIdentity" : "Unknown",
+      "secretIdentity" : "Unknown"
     }
   ]
 }
