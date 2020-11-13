@@ -1,10 +1,11 @@
 {
-  "squadName" : "Super Hero Squad",
-  "homeTown" : "Metro City",
-  "formed" : 2016,
-  "secretBase" : "Super tower",
-  "active" : true,
+  //"squadName" : "Super Hero Squad",
+  //"homeTown" : "Metro City",
+  //"formed" : 2016,
+  //"secretBase" : "Super tower",
+  //"active" : true,
   "it_shatl": "Минск",
+  "nach": "16 ноября"
   "god": 2020,
   "members" : [
     {
