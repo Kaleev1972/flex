@@ -2,21 +2,38 @@
   "it_shatl": "Минск",
   "god": 2020,
   "nach": "16 ноября", 
-  "members" : [
+   "members" : [
     {
-      "name" : "Калеева Алина",
-      "tel" : "+375 29 320 20 86",
+      "name" : "Molecule Man",
       "age" : 29,
+      "secretIdentity" : "Dan Jukes",
+      "powers" : [
+        "Radiation resistance",
+        "Turning tiny",
+        "Radiation blast"
+      ]
     },
     {
-      "name" : "Петров Иван",
-       "tel" : "+375 29 320 20 86",
-      "age" : 39, 
+      "name" : "Madame Uppercut",
+      "age" : 39,
+      "secretIdentity" : "Jane Wilson",
+      "powers" : [
+        "Million tonne punch",
+        "Damage resistance",
+        "Superhuman reflexes"
+      ]
     },
     {
-      "name" : "Иванов Петр",
-       "tel" : "+375 29 320 20 86",
+      "name" : "Eternal Flame",
       "age" : 1000000,
-     }
+      "secretIdentity" : "Unknown",
+      "powers" : [
+        "Immortality",
+        "Heat Immunity",
+        "Inferno",
+        "Teleportation",
+        "Interdimensional travel"
+      ]
+    }
   ]
 }
