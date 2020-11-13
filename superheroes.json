@@ -5,16 +5,19 @@
    "members" : [
     {
       "name" : "Molecule Man",
+      "tel" : "+375 29 320 20 86",
       "age" : 29,
       "secretIdentity" : "Dan Jukes"
     },
     {
       "name" : "Madame Uppercut",
+      "tel" : "+375 44 320 20 86",
       "age" : 39,
       "secretIdentity" : "Jane Wilson"
     },
     {
       "name" : "Eternal Flame",
+       "tel" : "+375 33 320 20 86",
       "age" : 1000000,
       "secretIdentity" : "Unknown"
     }
