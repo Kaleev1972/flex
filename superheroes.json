@@ -4,19 +4,19 @@
   "nach": "16 ноября", 
    "members" : [
     {
-      "name" : "Molecule Man",
+      "name" : "Калеева Алина",
       "tel" : "+375 29 320 20 86",
       "age" : 29,
       "secretIdentity" : "Dan Jukes"
     },
     {
-      "name" : "Madame Uppercut",
+      "name" : "Петров Петр",
       "tel" : "+375 44 320 20 86",
       "age" : 39,
       "secretIdentity" : "Jane Wilson"
     },
     {
-      "name" : "Eternal Flame",
+      "name" : "Иванов Иван",
        "tel" : "+375 33 320 20 86",
       "age" : 1000000,
       "secretIdentity" : "Unknown"
