@@ -5,19 +5,16 @@
   "namk": "javascript",
    "members" : [
     {
-      "name" : "Калеева Алина",
-      "tel" : "+375 29 320 20 86",
-      "secretIdentity" : "Dan Jukes"
+      "loginu" : "kaleeva.fam@mail.ru",
+      "pasw" : "2020"
     },
     {
-      "name" : "Петров Петр",
-      "tel" : "+375 44 320 20 86",
-      "secretIdentity" : "Jane Wilson"
+      "loginu" : "Петров Петр",
+      "pasw" : "234"
     },
     {
-      "name" : "Иванов Иван",
-       "tel" : "+375 33 320 20 86",
-      "secretIdentity" : "Unknown"
+      "name" : "kaleeva.fam@rambler.ru",
+       "tel" : "2021"
     }
   ]
 }
