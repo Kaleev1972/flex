@@ -2,19 +2,24 @@
   "it_shatl": "Минск",
   "god": 2020,
   "nach": "16 ноября", 
-  "namk": "javascript",
    "members" : [
     {
-      "loginu" : "kaleeva.fam@mail.ru",
-      "pasw" : "2020"
+      "name" : "Калеева Алина",
+      "tel" : "+375 29 320 20 86",
+      "age" : 29,
+      "secretIdentity" : "Dan Jukes"
     },
     {
-      "loginu" : "Петров Петр",
-      "pasw" : "234"
+      "name" : "Петров Петр",
+      "tel" : "+375 44 320 20 86",
+      "age" : 39,
+      "secretIdentity" : "Jane Wilson"
     },
     {
-      "name" : "kaleeva.fam@rambler.ru",
-       "tel" : "2021"
+      "name" : "Иванов Иван",
+       "tel" : "+375 33 320 20 86",
+      "age" : 1000000,
+      "secretIdentity" : "Unknown"
     }
   ]
 }
